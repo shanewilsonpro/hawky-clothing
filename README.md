@@ -4,6 +4,7 @@
 ## What tools used for this project:
 - React
 - SASS (https://sass-lang.com/)
+- Firebase
 
 ## Installations for Project
 
