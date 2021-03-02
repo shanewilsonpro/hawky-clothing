@@ -13,7 +13,7 @@
 - For SASS, if you use npm, npm install node-sass or for yarn, yarn add node-sass
 - For React routing, if you use npm, npm install react-router-dom (https://reactrouter.com/web/guides/quick-start)
 - For Firebase, npm install firebase
-- Redux, npm install redux react-redux
+- Redux, npm install redux react-redux (https://redux.js.org/introduction/installation)
 
 ## Description
 
