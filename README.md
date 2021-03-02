@@ -14,6 +14,7 @@
 - For React routing, if you use npm, npm install react-router-dom (https://reactrouter.com/web/guides/quick-start)
 - For Firebase, npm install firebase
 - Redux, npm install redux react-redux (https://redux.js.org/introduction/installation)
+- Reselect from Redux, npm install reselect (https://github.com/reduxjs/reselect)
 
 ## Description
 
