@@ -15,6 +15,7 @@
 - For Firebase, npm install firebase
 - Redux, npm install redux react-redux (https://redux.js.org/introduction/installation)
 - Reselect from Redux, npm install reselect (https://github.com/reduxjs/reselect)
+- Persist from Redux, npm install redux-persist (https://github.com/rt2zz/redux-persist)
 
 ## Description
 
