@@ -19,6 +19,7 @@
 - Persist from Redux, npm install redux-persist (https://github.com/rt2zz/redux-persist)
 - Stripe, npm install react-stripe-checkout (https://github.com/azmenak/react-stripe-checkout)
 - Styled-Components, npm install styled-components (https://styled-components.com/)
+- Redux Thunk, npm install redux-thunk (https://github.com/reduxjs/redux-thunk)
 
 ## Description
 
