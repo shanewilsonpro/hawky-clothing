@@ -20,6 +20,7 @@
 - Stripe, npm install react-stripe-checkout (https://github.com/azmenak/react-stripe-checkout)
 - Styled-Components, npm install styled-components (https://styled-components.com/)
 - Redux Thunk, npm install redux-thunk (https://github.com/reduxjs/redux-thunk)
+- Redux Saga, npm install redux-saga (https://redux-saga.js.org/)
 
 ## Description
 
