@@ -2,27 +2,17 @@
  I build this E-commerce website for clothing. This is good practice for me to learn full stack using React, Redux, GraphQL, Hooks, Firebase, and more. 
 
 ## What tools used for this project:
-- React
-- SASS (https://sass-lang.com/)
-- Firebase
-- Redux
-- Stripe (https://stripe.com/)
-
-## Installations for Project
-
-- npx create-react-app hawky-clothing (for creating the project)
-- For SASS, if you use npm, npm install node-sass or for yarn, yarn add node-sass
-- For React routing, if you use npm, npm install react-router-dom (https://reactrouter.com/web/guides/quick-start)
-- For Firebase, npm install firebase
-- Redux, npm install redux react-redux (https://redux.js.org/introduction/installation)
-- Reselect from Redux, npm install reselect (https://github.com/reduxjs/reselect)
-- Persist from Redux, npm install redux-persist (https://github.com/rt2zz/redux-persist)
-- Stripe, npm install react-stripe-checkout (https://github.com/azmenak/react-stripe-checkout)
-- Styled-Components, npm install styled-components (https://styled-components.com/)
-- Redux Thunk, npm install redux-thunk (https://github.com/reduxjs/redux-thunk)
-- Redux Saga, npm install redux-saga (https://redux-saga.js.org/)
+- [React](https://reactjs.org/)
+- [SASS](https://sass-lang.com/)
+- [Firebase](https://firebase.google.com/)
+- [Redux](https://redux.js.org/) (Reselect, Persist, Thunk, Saga)
+- [Stripe API](https://stripe.com/)
+- [Styled-Components](https://styled-components.com/)
+- [React Routing](https://reactrouter.com/web/guides/quick-start)
+- [Netlify](https://www.netlify.com/) for deploying
 
 ## Description
-
+This project have navigation and routing that takes the users to different pages of categories of items and from these items, the users will be able to add them to their cart. The users can see these things directly update and from this cart, the users are going to be able to checkout. From there, the users can increase or decrease these items and see the live changes in both checkout page and cart page remove items. There is integrating with Stripe so the users can handle the payments. This project will integrate with firebase to handle authentications especially Google and the storage for shop data. 
 
 ## Live Demo
+https://hawky-clothing.netlify.app/
